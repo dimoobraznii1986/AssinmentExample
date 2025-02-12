@@ -1,0 +1,2394 @@
+[
+  {
+    "id": "64d28b9f7a2fd90012d16fcc",
+    "created_at": "2023-08-08T18:38:23.400Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2302705",
+        "latitude": "36.923764"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d9",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f254"
+      }
+    }
+  },
+  {
+    "id": "64d28b816de1c0007a9ad50f",
+    "created_at": "2023-08-08T18:37:52.391Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2466301",
+        "latitude": "36.923751"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d10",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f255"
+      }
+    }
+  },
+  {
+    "id": "64d28b629e5b97006eadccec",
+    "created_at": "2023-08-08T18:37:22.765Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2468358",
+        "latitude": "36.9239698"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d11",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f256"
+      }
+    }
+  },
+  {
+    "id": "64d28b448787880059ecd032",
+    "created_at": "2023-08-08T18:36:52.008Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2554571",
+        "latitude": "36.9236294"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d12",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f257"
+      }
+    }
+  },
+  {
+    "id": "64d28b26698d9200122ccb01",
+    "created_at": "2023-08-08T18:36:21.852Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2555244",
+        "latitude": "36.9246568"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d13",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f258"
+      }
+    }
+  },
+  {
+    "id": "64d28b08507f1700577bf57c",
+    "created_at": "2023-08-08T18:35:51.766Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2556408",
+        "latitude": "36.931205"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d14",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f259"
+      }
+    }
+  },
+  {
+    "id": "64d28aeaf5076a005d59f7f8",
+    "created_at": "2023-08-08T18:35:21.746Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2557819",
+        "latitude": "36.9381783"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d15",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f260"
+      }
+    }
+  },
+  {
+    "id": "64d28acc3c4afb0055a846f4",
+    "created_at": "2023-08-08T18:34:51.523Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2559373",
+        "latitude": "36.9447959"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d16",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f261"
+      }
+    }
+  },
+  {
+    "id": "64d28aaea0f187005efa12b4",
+    "created_at": "2023-08-08T18:34:21.485Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.256019",
+        "latitude": "36.9500153"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d17",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f262"
+      }
+    }
+  },
+  {
+    "id": "64d28a90cd68920034c49c02",
+    "created_at": "2023-08-08T18:33:51.361Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2563193",
+        "latitude": "36.9528552"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d18",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f263"
+      }
+    }
+  },
+  {
+    "id": "64d28a726ade8d00497c9ffa",
+    "created_at": "2023-08-08T18:33:22.122Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2563241",
+        "latitude": "36.9528579"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d19",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f264"
+      }
+    }
+  },
+  {
+    "id": "64d28a57e397e30048929e05",
+    "created_at": "2023-08-08T18:32:55.135Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2622543",
+        "latitude": "36.952837"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d20",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f265"
+      }
+    }
+  },
+  {
+    "id": "64d28a304d40530018508db0",
+    "created_at": "2023-08-08T18:32:16.863Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2741226",
+        "latitude": "36.9528903"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d21",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f266"
+      }
+    }
+  },
+  {
+    "id": "64d28a181b3e7d005015733d",
+    "created_at": "2023-08-08T18:31:51.510Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2802752",
+        "latitude": "36.9528819"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d22",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f267"
+      }
+    }
+  },
+  {
+    "id": "64d289fc60f09300413b1830",
+    "created_at": "2023-08-08T18:31:24.090Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2866509",
+        "latitude": "36.9528277"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d23",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f268"
+      }
+    }
+  },
+  {
+    "id": "64d289df179f140033dfcabe",
+    "created_at": "2023-08-08T18:30:55.133Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.29106",
+        "latitude": "36.9528081"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d24",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f269"
+      }
+    }
+  },
+  {
+    "id": "64d289c1d201cb0064f82caf",
+    "created_at": "2023-08-08T18:30:25.417Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2918929",
+        "latitude": "36.9534756"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d25",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f270"
+      }
+    }
+  },
+  {
+    "id": "64d289a3e8c4ef00129bb9e4",
+    "created_at": "2023-08-08T18:29:55.116Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2918441",
+        "latitude": "36.9541828"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d26",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f271"
+      }
+    }
+  },
+  {
+    "id": "64d289854e2bcf004ca56f0d",
+    "created_at": "2023-08-08T18:29:25.187Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2917351",
+        "latitude": "36.9542354"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d27",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f272"
+      }
+    }
+  },
+  {
+    "id": "64d28967e2462d0076d5ecf7",
+    "created_at": "2023-08-08T18:28:55.123Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.291776",
+        "latitude": "36.9542454"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d28",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f273"
+      }
+    }
+  },
+  {
+    "id": "64d2893237bbf000493b2dfd",
+    "created_at": "2023-08-08T18:28:01.352Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2917766",
+        "latitude": "36.9542293"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d29",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f274"
+      }
+    }
+  },
+  {
+    "id": "64d28913855fbd0043a5aeca",
+    "created_at": "2023-08-08T18:27:30.635Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2917674",
+        "latitude": "36.9542494"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d30",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f275"
+      }
+    }
+  },
+  {
+    "id": "64d288f56f34c200572f94f4",
+    "created_at": "2023-08-08T18:27:00.495Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2917681",
+        "latitude": "36.9542655"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d31",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f276"
+      }
+    }
+  },
+  {
+    "id": "64d2889db576a80053e30e46",
+    "created_at": "2023-08-08T18:25:33.597Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2917368",
+        "latitude": "36.9542714"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d32",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f277"
+      }
+    }
+  },
+  {
+    "id": "64d2887f99930400427de139",
+    "created_at": "2023-08-08T18:25:03.313Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2918302",
+        "latitude": "36.9542077"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d33",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f278"
+      }
+    }
+  },
+  {
+    "id": "64d2886161f5860036a11173",
+    "created_at": "2023-08-08T18:24:33.101Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2918207",
+        "latitude": "36.9544552"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d34",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f279"
+      }
+    }
+  },
+  {
+    "id": "64d28843873a7600122a81a1",
+    "created_at": "2023-08-08T18:24:03.138Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.291865",
+        "latitude": "36.9553452"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d35",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f280"
+      }
+    }
+  },
+  {
+    "id": "64d28825ac74a600605f6253",
+    "created_at": "2023-08-08T18:23:33.325Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2914154",
+        "latitude": "36.9564192"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d36",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f281"
+      }
+    }
+  },
+  {
+    "id": "64d28807cfa6f00032406bf0",
+    "created_at": "2023-08-08T18:23:03.437Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2905998",
+        "latitude": "36.9563692"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d37",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f282"
+      }
+    }
+  },
+  {
+    "id": "64d287e971a7d6002d864777",
+    "created_at": "2023-08-08T18:22:33.170Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2890878",
+        "latitude": "36.9564234"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d38",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f283"
+      }
+    }
+  },
+  {
+    "id": "64d287cb0bbbb9001e6b369c",
+    "created_at": "2023-08-08T18:22:03.361Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2874575",
+        "latitude": "36.9564024"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d39",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f284"
+      }
+    }
+  },
+  {
+    "id": "64d287ad2453c6004fda46a3",
+    "created_at": "2023-08-08T18:21:33.581Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872361",
+        "latitude": "36.9567007"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d40",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f285"
+      }
+    }
+  },
+  {
+    "id": "64d28790f06d35002deb7941",
+    "created_at": "2023-08-08T18:21:03.785Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872364",
+        "latitude": "36.9567009"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d41",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f286"
+      }
+    }
+  },
+  {
+    "id": "64d2877199930400427dd54a",
+    "created_at": "2023-08-08T18:20:33.311Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872367",
+        "latitude": "36.9567008"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d42",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f287"
+      }
+    }
+  },
+  {
+    "id": "64d28753fb2f6a0074114f34",
+    "created_at": "2023-08-08T18:20:03.460Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872364",
+        "latitude": "36.9567007"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d43",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f288"
+      }
+    }
+  },
+  {
+    "id": "64d28735e2692d0075e89870",
+    "created_at": "2023-08-08T18:19:33.341Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872366",
+        "latitude": "36.9567006"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d44",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f289"
+      }
+    }
+  },
+  {
+    "id": "64d287176880c70057fd97a9",
+    "created_at": "2023-08-08T18:19:03.434Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872362",
+        "latitude": "36.9567006"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d45",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f290"
+      }
+    }
+  },
+  {
+    "id": "64d286f96760e200500b226d",
+    "created_at": "2023-08-08T18:18:33.257Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872358",
+        "latitude": "36.9567008"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d46",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f291"
+      }
+    }
+  },
+  {
+    "id": "64d286dbd4af95005defe983",
+    "created_at": "2023-08-08T18:18:03.545Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872351",
+        "latitude": "36.9567007"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d47",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f292"
+      }
+    }
+  },
+  {
+    "id": "64d286beeebab1001262a3a7",
+    "created_at": "2023-08-08T18:17:33.774Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872347",
+        "latitude": "36.9567008"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d48",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f293"
+      }
+    }
+  },
+  {
+    "id": "64d2869fb3b4a60058143ab5",
+    "created_at": "2023-08-08T18:17:03.436Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872338",
+        "latitude": "36.9567006"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d49",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f294"
+      }
+    }
+  },
+  {
+    "id": "64d286810f47e1005da4f494",
+    "created_at": "2023-08-08T18:16:33.336Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872337",
+        "latitude": "36.9567011"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d50",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f295"
+      }
+    }
+  },
+  {
+    "id": "64d28663c027420050944506",
+    "created_at": "2023-08-08T18:16:03.600Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.287233",
+        "latitude": "36.9567007"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d51",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f296"
+      }
+    }
+  },
+  {
+    "id": "64d28645621b3d0050ca723f",
+    "created_at": "2023-08-08T18:15:33.247Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872323",
+        "latitude": "36.9567001"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d52",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f297"
+      }
+    }
+  },
+  {
+    "id": "64d2862737bbf000493afa0b",
+    "created_at": "2023-08-08T18:15:03.114Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.287232",
+        "latitude": "36.9567"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d53",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f298"
+      }
+    }
+  },
+  {
+    "id": "64d2860997eff9003b5cf546",
+    "created_at": "2023-08-08T18:14:33.286Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872319",
+        "latitude": "36.9567001"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d54",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f299"
+      }
+    }
+  },
+  {
+    "id": "64d285eba75b3d006c1002e8",
+    "created_at": "2023-08-08T18:14:03.106Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872312",
+        "latitude": "36.9566997"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d55",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f300"
+      }
+    }
+  },
+  {
+    "id": "64d285cd02654300187e0a8e",
+    "created_at": "2023-08-08T18:13:33.118Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872302",
+        "latitude": "36.956699"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d56",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f301"
+      }
+    }
+  },
+  {
+    "id": "64d285af21a8a40018080ca7",
+    "created_at": "2023-08-08T18:13:03.127Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872294",
+        "latitude": "36.9566982"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d57",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f302"
+      }
+    }
+  },
+  {
+    "id": "64d28590841433003b2cf33c",
+    "created_at": "2023-08-08T18:12:32.120Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.287229",
+        "latitude": "36.9566977"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d58",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f303"
+      }
+    }
+  },
+  {
+    "id": "64d28572651ad600502d3f1f",
+    "created_at": "2023-08-08T18:12:02.110Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872297",
+        "latitude": "36.9566976"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d59",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f304"
+      }
+    }
+  },
+  {
+    "id": "64d28554e3ba31003c53ca01",
+    "created_at": "2023-08-08T18:11:32.101Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872301",
+        "latitude": "36.9566979"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d60",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f305"
+      }
+    }
+  },
+  {
+    "id": "64d28536925e2a0021cf6bf1",
+    "created_at": "2023-08-08T18:11:02.092Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872302",
+        "latitude": "36.956698"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d61",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f306"
+      }
+    }
+  },
+  {
+    "id": "64d28518ec631e0066de55c0",
+    "created_at": "2023-08-08T18:10:32.117Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872303",
+        "latitude": "36.9566979"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d62",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f307"
+      }
+    }
+  },
+  {
+    "id": "64d284e49c095500764fc486",
+    "created_at": "2023-08-08T18:09:40.297Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2874436",
+        "latitude": "36.9568194"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d63",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f308"
+      }
+    }
+  },
+  {
+    "id": "64d284bca40f8d0061ec7a84",
+    "created_at": "2023-08-08T18:09:00.304Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2874482",
+        "latitude": "36.9568199"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d64",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f309"
+      }
+    }
+  },
+  {
+    "id": "64d2849e106f0100795ff5fa",
+    "created_at": "2023-08-08T18:08:30.146Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2874476",
+        "latitude": "36.9568202"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d65",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f310"
+      }
+    }
+  },
+  {
+    "id": "64d28480d85ff100413a40f7",
+    "created_at": "2023-08-08T18:08:00.148Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2874449",
+        "latitude": "36.9568197"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d66",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f311"
+      }
+    }
+  },
+  {
+    "id": "64d284620cac45001f47fcba",
+    "created_at": "2023-08-08T18:07:30.173Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2874424",
+        "latitude": "36.9568192"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d67",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f312"
+      }
+    }
+  },
+  {
+    "id": "64d28444b576a80053e2c7d4",
+    "created_at": "2023-08-08T18:07:00.116Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2874405",
+        "latitude": "36.9568193"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d68",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f313"
+      }
+    }
+  },
+  {
+    "id": "64d284277fce1f0018fcd986",
+    "created_at": "2023-08-08T18:06:31.119Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872392",
+        "latitude": "36.9567007"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d69",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f314"
+      }
+    }
+  },
+  {
+    "id": "64d28408d554ef0048b43ee6",
+    "created_at": "2023-08-08T18:06:00.029Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2874463",
+        "latitude": "36.95682"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d70",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f315"
+      }
+    }
+  },
+  {
+    "id": "64d283ea97e640007583fbde",
+    "created_at": "2023-08-08T18:05:30.289Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2874424",
+        "latitude": "36.9568192"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d71",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f316"
+      }
+    }
+  },
+  {
+    "id": "64d283cc3dffe9001ec9ee86",
+    "created_at": "2023-08-08T18:05:00.036Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.28744",
+        "latitude": "36.9568201"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d72",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f317"
+      }
+    }
+  },
+  {
+    "id": "64d283ae08b7410050ab04ca",
+    "created_at": "2023-08-08T18:04:29.984Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2874382",
+        "latitude": "36.9568192"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d73",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f318"
+      }
+    }
+  },
+  {
+    "id": "64d28391161b61005e5353c6",
+    "created_at": "2023-08-08T18:04:01.091Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.287237",
+        "latitude": "36.9566992"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d74",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f319"
+      }
+    }
+  },
+  {
+    "id": "64d283720ce45e0018469d26",
+    "created_at": "2023-08-08T18:03:29.969Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2874384",
+        "latitude": "36.9568193"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d75",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f320"
+      }
+    }
+  },
+  {
+    "id": "64d28354e386ff0034d1dc82",
+    "created_at": "2023-08-08T18:03:00.103Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2874399",
+        "latitude": "36.9568194"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d76",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f321"
+      }
+    }
+  },
+  {
+    "id": "64d28336758edb00651c39bf",
+    "created_at": "2023-08-08T18:02:29.925Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2874391",
+        "latitude": "36.9568195"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d77",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f322"
+      }
+    }
+  },
+  {
+    "id": "64d283189c69e5003bd07d85",
+    "created_at": "2023-08-08T18:01:59.950Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2874394",
+        "latitude": "36.9568195"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d78",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f323"
+      }
+    }
+  },
+  {
+    "id": "64d282fa736ce3006c9b354d",
+    "created_at": "2023-08-08T18:01:29.885Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2874394",
+        "latitude": "36.9568195"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d79",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f324"
+      }
+    }
+  },
+  {
+    "id": "64d282dc9c69e5003bd079a5",
+    "created_at": "2023-08-08T18:00:59.949Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2874394",
+        "latitude": "36.9568195"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d80",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f325"
+      }
+    }
+  },
+  {
+    "id": "64d282bfdaca420067fcdb4a",
+    "created_at": "2023-08-08T18:00:31.101Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872351",
+        "latitude": "36.9566987"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d81",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f326"
+      }
+    }
+  },
+  {
+    "id": "64d2829fd5231e006d077faf",
+    "created_at": "2023-08-08T17:59:59.134Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2874387",
+        "latitude": "36.9568195"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d82",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f327"
+      }
+    }
+  },
+  {
+    "id": "64d28283a4c1a1004163b367",
+    "created_at": "2023-08-08T17:59:30.641Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872349",
+        "latitude": "36.9567004"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d83",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f328"
+      }
+    }
+  },
+  {
+    "id": "64d282678ccb91002f59c1ec",
+    "created_at": "2023-08-08T17:59:03.107Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872344",
+        "latitude": "36.9566998"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d84",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f329"
+      }
+    }
+  },
+  {
+    "id": "64d28249625658001200595b",
+    "created_at": "2023-08-08T17:58:33.113Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872345",
+        "latitude": "36.9566996"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d85",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f330"
+      }
+    }
+  },
+  {
+    "id": "64d28229fc54900012ccf010",
+    "created_at": "2023-08-08T17:58:00.844Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872351",
+        "latitude": "36.956703"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d86",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f331"
+      }
+    }
+  },
+  {
+    "id": "64d2820d643665005d2144d3",
+    "created_at": "2023-08-08T17:57:33.120Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872344",
+        "latitude": "36.9567027"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d87",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f332"
+      }
+    }
+  },
+  {
+    "id": "64d281efc16ba100577821bf",
+    "created_at": "2023-08-08T17:57:03.111Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872357",
+        "latitude": "36.956703"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d88",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f333"
+      }
+    }
+  },
+  {
+    "id": "64d281cf621b3d0050ca2e9e",
+    "created_at": "2023-08-08T17:56:30.844Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872378",
+        "latitude": "36.9567037"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d89",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f334"
+      }
+    }
+  },
+  {
+    "id": "64d281b36ade8d00497c0712",
+    "created_at": "2023-08-08T17:56:03.121Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872368",
+        "latitude": "36.9567026"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d90",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f335"
+      }
+    }
+  },
+  {
+    "id": "64d281956a3cbc003d768fa3",
+    "created_at": "2023-08-08T17:55:33.124Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872384",
+        "latitude": "36.9567036"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d91",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f336"
+      }
+    }
+  },
+  {
+    "id": "64d28176327348004530038a",
+    "created_at": "2023-08-08T17:55:02.107Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872394",
+        "latitude": "36.9567039"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d92",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f337"
+      }
+    }
+  },
+  {
+    "id": "64d2815ac444b90049b96e8a",
+    "created_at": "2023-08-08T17:54:34.109Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872389",
+        "latitude": "36.9567035"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d93",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f338"
+      }
+    }
+  },
+  {
+    "id": "64d2813c1b1241007373ca86",
+    "created_at": "2023-08-08T17:54:04.118Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872403",
+        "latitude": "36.9567046"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d94",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f339"
+      }
+    }
+  },
+  {
+    "id": "64d28115f5992b005ee68e7e",
+    "created_at": "2023-08-08T17:53:25.107Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2872494",
+        "latitude": "36.9567071"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d95",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f340"
+      }
+    }
+  },
+  {
+    "id": "64d280f52c12eb001eb22bac",
+    "created_at": "2023-08-08T17:52:51.464Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2874387",
+        "latitude": "36.9568195"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d96",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f341"
+      }
+    }
+  },
+  {
+    "id": "64d280d8565406002b10e63c",
+    "created_at": "2023-08-08T17:52:24.338Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2874399",
+        "latitude": "36.9568209"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d97",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f342"
+      }
+    }
+  },
+  {
+    "id": "64d280bae282390057d3737a",
+    "created_at": "2023-08-08T17:51:54.341Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2874394",
+        "latitude": "36.9568195"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d98",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f343"
+      }
+    }
+  },
+  {
+    "id": "64d2809c1c62f7006c3bf1bf",
+    "created_at": "2023-08-08T17:51:24.334Z",
+    "live": "TRUE",
+    "type": "user.updated_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "Point",
+      "coordinates": {
+        "longitude": "-120.2874387",
+        "latitude": "36.9568195"
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d99",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f344"
+      }
+    }
+  },
+  {
+    "id": "64d28078c0350b0050c02712",
+    "created_at": "2023-08-08T17:50:48.793Z",
+    "live": "TRUE",
+    "type": "user.started_trip",
+    "_id": "646e94a5be2c8d00504f9928",
+    "MMUserId": "61947963940bbe643baf76d9",
+    "location": {
+      "type": "",
+      "coordinates": {
+        "longitude": "",
+        "latitude": ""
+      }
+    },
+    "trip": {
+      "_id": "64d28078c0350b0050c026fc",
+      "externalId": "1e8dec71-567e-4ae8-bbb4-aab57082ddcc",
+      "createdAt": "2023-08-08T17:50:48.793Z",
+      "updatedAt": "2023-08-08T17:50:48.793Z",
+      "MMUserId": "61947963940bbe643baf76d100",
+      "startedAt": "2023-08-08T17:50:48.793Z",
+      "metadata": {
+        "route_session_type": "64bebf32d38530406ca4f345"
+      }
+    }
+  }
+]

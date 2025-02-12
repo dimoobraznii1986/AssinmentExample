@@ -1,0 +1,7 @@
+helpers/__pycache__
+webhook_service.log
+webhook_data.duckdb
+.mypy_cache
+.pytest_cache
+.ruff_cache
+.DS_Store
